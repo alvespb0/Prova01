@@ -31,6 +31,6 @@ public class exer05 {
         for (int i = 0; i < 7; i++) {
             System.out.println("vetor2: " + vetor2[i]);
         }
-
+//comentario qualquer
     }
 }
